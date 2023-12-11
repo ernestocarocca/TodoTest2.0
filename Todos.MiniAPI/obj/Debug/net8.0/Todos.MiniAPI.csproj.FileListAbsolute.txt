@@ -140,3 +140,4 @@
 /Users/ernestocarocca/Desktop/backend c#/TodoTest2.0/Todos.MiniAPI/bin/Debug/net8.0/Todos.Data.dll
 /Users/ernestocarocca/Desktop/backend c#/TodoTest2.0/Todos.MiniAPI/bin/Debug/net8.0/Todos.Data.pdb
 /Users/ernestocarocca/Desktop/backend c#/TodoTest2.0/Todos.MiniAPI/bin/Debug/net8.0/Todos.Common.pdb
+/Users/ernestocarocca/Desktop/backend c#/TodoTest2.0/Todos.MiniAPI/obj/Debug/net8.0/Todos.MiniAPI.sourcelink.json

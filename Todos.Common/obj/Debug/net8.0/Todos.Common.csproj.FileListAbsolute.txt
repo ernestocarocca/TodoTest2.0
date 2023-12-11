@@ -9,3 +9,4 @@
 /Users/ernestocarocca/Desktop/backend c#/TodoTest2.0/Todos.Common/obj/Debug/net8.0/refint/Todos.Common.dll
 /Users/ernestocarocca/Desktop/backend c#/TodoTest2.0/Todos.Common/obj/Debug/net8.0/Todos.Common.pdb
 /Users/ernestocarocca/Desktop/backend c#/TodoTest2.0/Todos.Common/obj/Debug/net8.0/ref/Todos.Common.dll
+/Users/ernestocarocca/Desktop/backend c#/TodoTest2.0/Todos.Common/obj/Debug/net8.0/Todos.Common.sourcelink.json
